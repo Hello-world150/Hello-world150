@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hello-world150
 - 👀 I’m interested in run,write and so on.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me :email qhl314159265@126.com
+- 📫 How to reach me :email to qhl314159265@126.com
 
 <!---
 Hello-world150/Hello-world150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
